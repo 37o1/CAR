@@ -17,7 +17,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 ### DIVISIONAL STRUCTURE
 
 | Division Code | Division Name | Function |
-|---|---|---|
+| :---: | :--- | :--- |
 | **BIO** | Xenobiology & Comparative Anatomy | Dissection, classification, morphological mapping |
 | **ECO** | Ecological Threat Modeling | Climate-habitat simulations, range projection, impact assessments |
 | **OPS** | Field Operations Unit | Containment, neutralization, recovery of live specimens and tissue |
@@ -30,7 +30,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 ### THREAT CLASSIFICATION
 
 | Class | Description |
-|---|---|
+| :---: | :--- |
 | **TC1** | Harmless / Non-invasive |
 | **TC2** | Locally hazardous |
 | **TC3** | Regional Alpha-threat, climate-adaptive |
@@ -47,3 +47,8 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 - **[Organization Records](../organization/index.md)** - Structure, policy, and personnel.  
 - **[Template files](../templates/index.md)** - Template files for new database entries.
 
+---
+
+### Organization files
+
+- **[Personnel](./personel/index.md)** - Personnel information and history.
