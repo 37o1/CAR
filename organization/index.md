@@ -1,6 +1,6 @@
 ![CAR Org. Logo](/media/car_logo.png)
 
-# Cryptobiology Anomaly Reseach (CAR) Org.
+# Cryptobiology Anomaly Research (CAR) Org.
 
 **<p align="center">If you're looking for the database, click [here](/organization/database.md).</p>**
 
