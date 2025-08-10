@@ -1,5 +1,7 @@
 # Cryptobiology Anomaly Reseach (CAR) Org.
 
+![CAR Org. Logo](../media/car_logo.png)
+
 > Observe. Adapt. Survive.
 
 CAR exists to identify and document lifeforms operating outside known terrestrial parameters.  
