@@ -2,8 +2,6 @@
 
 ![CAR Org. Logo](../media/car_logo.png)
 
-> Observe. Adapt. Survive.
-
 CAR exists to identify and document lifeforms operating outside known terrestrial parameters.  
 
 These “cryptobiological anomalies” exhibit morphological, biochemical, or ecological patterns inconsistent with current biological models, posing threat vectors to human infrastructure, climate stability, or biospheric equilibrium.
