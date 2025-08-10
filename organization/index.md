@@ -1,6 +1,8 @@
-![CAR Org. Logo](../media/car_logo.png)
+![CAR Org. Logo](/media/car_logo.png)
 
 # Cryptobiology Anomaly Reseach (CAR) Org.
+
+**<p align="center">If you're looking for the database, click [here](/organization/database.md).</p>**
 
 CAR exists to identify and document lifeforms operating outside known terrestrial parameters.  
 
@@ -50,3 +52,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 ### Organization files
 
 - **[Personnel](./personel/index.md)** - Personnel information and history.
+
+---
+
+**<p align="center">This document is the property of Cryptobiology Anomaly Research (CAR) Org.</p>**

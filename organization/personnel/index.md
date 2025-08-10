@@ -1,5 +1,5 @@
-![CAR Org. Logo](../../media/car_logo.png)
+![CAR Org. Logo](/media/car_logo.png)
 
 # Personnel database
 
-- **[Director](./director.md)**
+- **[Director](/organization/personnel/director.md)**
