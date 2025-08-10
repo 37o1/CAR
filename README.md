@@ -2,7 +2,7 @@
 
 ![CAR Org. Logo](./media/car_logo.png)
 
-This is an ARG database of documents. It is structured as an archive. Feel free to read in. This project is a work of fiction and none of its contents must be real, even though scientific plausability is the goal.
+This is an ARG database of documents. It is structured as an archive. Feel free to read in. This project is a work of fiction and none of its contents must be real, even though scientific plausibility is the goal.
 
 "CAR (Cryptobiology Anomaly Research) Org." is a made up entity that this ARG project revolves around. There are no known real similar organizations to my knowledge and any similarities are purely a coincidence.
 
