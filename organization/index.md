@@ -65,7 +65,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 
 ### Organization files
 
-- **[Personnel](./personel/index.md)** - Personnel information and history.
+- **[Personnel](./personnel/index.md)** - Personnel information and history.
 
 ---
 
