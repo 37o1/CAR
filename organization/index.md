@@ -18,6 +18,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 
 | Division Code | Division Name | Function |
 | :---: | :--- | :--- |
+| **ADMIN** | Administrative | Handle critical data and the overal functioning of the organization |
 | **BIO** | Xenobiology & Comparative Anatomy | Dissection, classification, morphological mapping |
 | **ECO** | Ecological Threat Modeling | Climate-habitat simulations, range projection, impact assessments |
 | **OPS** | Field Operations Unit | Containment, neutralization, recovery of live specimens and tissue |

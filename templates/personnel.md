@@ -6,6 +6,7 @@
 
 | Data | Value |
 | :---: | :--- |
+| Name | John Doe |
 | Employee ID | UUID |
 | Position/Title | What role they play in the organization |
 | Department | Which division or team they belong to |
@@ -31,19 +32,16 @@
 
 ---
 
-### Notes
+### Personnel notes
 
-- Instert note
-- Instert note
-- Instert note
-- Instert note
-- Instert note
+| Title | Note |
+| :---: | :--- |
 
 ---
 
 ### Training records
 
-| Date and time | Title | Notes |
+| Date and time | Title | Note |
 | :---: | :--- | :--- |
 
 ---
