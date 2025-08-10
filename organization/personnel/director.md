@@ -10,7 +10,7 @@
 | Employee ID | `da0ad531-9eb1-4c52-be61-7e5c890484c5` |
 | Position/Title | Organization director |
 | Department | ADMIN |
-| Date of Hire | 1993-03-21 |
+| Date of Hire | 2019-03-21 |
 | Contact Info | Phone: +███ ███ ███ ███, E-mail: north@cbanre.org |
 | Emergency Contact | Phone: 670-001 |
 | Address | ███████ ██, █████, ██████ |
