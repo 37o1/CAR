@@ -8,7 +8,7 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 
 > *"Our job is not to explain the impossible.  
 > It is to measure it, map it, and survive it."*  
-> — CAR Director [NAME REDACTED]
+> - CAR Director [NAME REDACTED]
 
 ---
 
@@ -33,4 +33,15 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 | **TC2** | Locally hazardous |
 | **TC3** | Regional Alpha-threat, climate-adaptive |
 | **TC4** | Global existential hazard |
+
+---
+
+### Database navigation
+
+- **[Species Database](../species/index.md)** - Verified cryptobiological anomaly dossiers.  
+- **[Field Reports](../field/index.md)** - Active and historical incident logs.  
+- **[Experiment Logs](../experiment/index.md)** - Containment and behavioral studies.  
+- **[Communications](../coms/index.md)** - Civilian advisories and internal dispatches.  
+- **[Organization Records](../organization/index.md)** - Structure, policy, and personnel.  
+- **[Template files](../templates/index.md)** - Template files for new database entries.
 
