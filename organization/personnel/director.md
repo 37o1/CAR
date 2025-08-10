@@ -17,7 +17,7 @@
 | Nationality | Finnish |
 | Supervisor/Manager | - |
 | Employment Status | Active |
-| Skills/Certifications | Certified Information Systems Security Professional (CISSP) – (ISC)², Certified Information Security Manager (CISM) – ISACA, Project Management Professional (PMP) – PMI, Certified in Risk and Information Systems Control (CRISC) – ISACA, ISO 27001 Lead Implementer – International Register of Certificated Auditors (IRCA), Lean Six Sigma Black Belt – ASQ, Certified Government Auditing Professional (CGAP) – IIA,Executive Leadership Program – Harvard Kennedy School, Incident Command System (ICS) 300 & 400 – FEMA, Advanced Executive Protection Training |
+| Skills/Certifications | **Executive Leadership Program** - Harvard Kennedy School (2009), **Certified Information Systems Security Professional (CISSP)** - (ISC)² (2005), **Top Secret/Sensitive Compartmented Information (TS/SCI)** - US DoD (1997, periodic renewal), **Advanced Incident Command System (ICS-400)** - FEMA (2012), **Strategic Risk Governance** - Carnegie Mellon CERT (2016), **Executive Protection Specialist** - ASIS International (2001), **Classified Materials Handling Protocol** - NATO COSMIC (1998) |
 | Security Clearance | A1 |
 
 ---
