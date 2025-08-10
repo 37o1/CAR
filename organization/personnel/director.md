@@ -13,12 +13,12 @@
 | Date of Hire | 1993-03-21 |
 | Contact Info | Phone: +███ ███ ███ ███, E-mail: north@cbanre.org |
 | Emergency Contact | Phone: 670-001 |
-| Address | Official home address |
-| Nationality | For legal or international stuff |
-| Supervisor/Manager | Who they report to, helps with hierarchy |
-| Employment Status | Active, On Leave, Terminated, etc. |
-| Skills/Certifications | Relevant licenses or qualifications |
-| Security Clearance | If applicable for sensitive operations |
+| Address | ███████ ██, █████, ██████ |
+| Nationality | Finnish |
+| Supervisor/Manager | - |
+| Employment Status | Active |
+| Skills/Certifications | Certified Information Systems Security Professional (CISSP) – (ISC)², Certified Information Security Manager (CISM) – ISACA, Project Management Professional (PMP) – PMI, Certified in Risk and Information Systems Control (CRISC) – ISACA, ISO 27001 Lead Implementer – International Register of Certificated Auditors (IRCA), Lean Six Sigma Black Belt – ASQ, Certified Government Auditing Professional (CGAP) – IIA,Executive Leadership Program – Harvard Kennedy School, Incident Command System (ICS) 300 & 400 – FEMA, Advanced Executive Protection Training |
+| Security Clearance | A1 |
 
 ---
 

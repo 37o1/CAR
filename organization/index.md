@@ -28,6 +28,19 @@ These “cryptobiological anomalies” exhibit morphological, biochemical, or ec
 
 ---
 
+### Cleareance level
+
+| Code | Description |
+| :---: | :--- |
+| **A1** | Everything |
+| **A2** | Basic administrative access, doesn't include internally classified data |
+| **R1** | Complete access to all research data and all internally unclassified archives |
+| **R2** | Access to all internally unclassified research data |
+| **E1** | Access to internally unclassified data, not including research and administrative data |
+| **E2** | No access to internal data |
+
+---
+
 ### THREAT CLASSIFICATION
 
 | Class | Description |
