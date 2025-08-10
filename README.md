@@ -10,4 +10,4 @@ This project is currently only maintained by me. Help me with the project by sha
 
 ---
 
-<p style="text-align:center"><a href="https://linktr.ee/37o1">37o1 on Linktr.ee</a> | <a href="./LICENSE">License</a> | <a href="https://ko-fi.com/37o1">Donate on Ko-Fi</a> | <a href="https://t.me/carorganization">Telegram channel</a></p>
+<p align="center"><a href="https://linktr.ee/37o1">37o1 on Linktr.ee</a> | <a href="./LICENSE">License</a> | <a href="https://ko-fi.com/37o1">Donate on Ko-Fi</a> | <a href="https://t.me/carorganization">Telegram channel</a></p>
